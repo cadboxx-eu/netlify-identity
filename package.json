@@ -1,5 +1,5 @@
 {
-  "name": "gaming-vibes",
+  "name": "cad-boxx",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "netlify-identity-widget": "^1.9.1",
-    "next": "10.1.2",
+    "next": "^13.2.4",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   }

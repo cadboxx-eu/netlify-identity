@@ -32,7 +32,7 @@ export default function Navbar() {
         {/* )} */}
       </nav>
       <div className="banner">
-        <Image src="/banner.png" width={966} height={276} />
+        <Image src="/966x276.png" width={966} height={276} />
       </div>
     </div>
   )
